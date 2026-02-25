@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Police",
+        "name_te": "పోలీసు",
+        "number": "100",
+        "icon": "👮",
+        "description": "Law enforcement & emergency response",
+        "description_te": "చట్ట అమలు మరియు అత్యవసర స్పందన",
+        "color": "#2980b9"
+    },
+    {
+        "id": 2,
+        "name": "Ambulance",
+        "name_te": "అంబులెన్స్",
+        "number": "108",
+        "icon": "🚑",
+        "description": "Medical emergency & injury response",
+        "description_te": "వైద్య అత్యవసర మరియు గాయాల స్పందన",
+        "color": "#e74c3c"
+    },
+    {
+        "id": 3,
+        "name": "Fire Brigade",
+        "name_te": "అగ్నిమాపక విభాగం",
+        "number": "101",
+        "icon": "🚒",
+        "description": "Fire emergencies & rescue operations",
+        "description_te": "అగ్ని అత్యవసర మరియు రక్షణ కార్యకలాపాలు",
+        "color": "#e67e22"
+    },
+    {
+        "id": 4,
+        "name": "NDRF Helpline",
+        "name_te": "NDRF హెల్ప్‌లైన్",
+        "number": "1078",
+        "icon": "🛡️",
+        "description": "National Disaster Response Force",
+        "description_te": "జాతీయ విపత్తు స్పందన దళం",
+        "color": "#27ae60"
+    },
+    {
+        "id": 5,
+        "name": "Disaster Management",
+        "name_te": "విపత్తు నిర్వహణ",
+        "number": "1070",
+        "icon": "🏛️",
+        "description": "State disaster management helpline",
+        "description_te": "రాష్ట్ర విపత్తు నిర్వహణ హెల్ప్‌లైన్",
+        "color": "#8e44ad"
+    },
+    {
+        "id": 6,
+        "name": "Women Helpline",
+        "name_te": "మహిళా హెల్ప్‌లైన్",
+        "number": "1091",
+        "icon": "👩",
+        "description": "Women in distress & emergency support",
+        "description_te": "సంకటంలో మహిళలు మరియు అత్యవసర మద్దతు",
+        "color": "#e91e8c"
+    },
+    {
+        "id": 7,
+        "name": "Child Helpline",
+        "name_te": "బాలల హెల్ప్‌లైన్",
+        "number": "1098",
+        "icon": "👶",
+        "description": "Child emergency & abuse support",
+        "description_te": "పిల్లల అత్యవసర మరియు దుర్వినియోగ మద్దతు",
+        "color": "#f39c12"
+    },
+    {
+        "id": 8,
+        "name": "Coast Guard",
+        "name_te": "కోస్ట్ గార్డ్",
+        "number": "1554",
+        "icon": "⚓",
+        "description": "Maritime emergency & sea rescue",
+        "description_te": "సముద్ర అత్యవసర మరియు సముద్ర రక్షణ",
+        "color": "#16a085"
+    }
+]
